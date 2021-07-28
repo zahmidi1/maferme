@@ -38,7 +38,8 @@
              <div class="container ">
                  <a id="linkE" class="navbar-brand navA_active navA " href="index.php"><img class="logo " src="./image_db/maFERME.png" alt="">aferme</a>
                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-flower2"></i></button>
-                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                      <li class="nav-item"><a id="linkD" class="nav-link navA navA_active" href="index.php ">HOME</a></li>
                      <li class="nav-item"><a id="linkA" class="nav-link navA navA_active" href="about.php">A PROPOS DE NOUS </a></li>
                      <li class="nav-item"><a id="linkB" class="nav-link navA navA_active" href="all_produit.php">PRODUIT</a></li>
